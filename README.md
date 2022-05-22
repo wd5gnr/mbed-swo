@@ -1,5 +1,5 @@
-# Rotary Encoder Example
+# MBed SWO Class
 
-Simple class for a rotary encoder. Al Williams, Hackaday.
+Allows writing to any SWO channel from MBed to read on an SWO viewer
 
 Uses Mbed OS 6 on Blackpill (STM32F411CE). See Hackaday article for details!
